@@ -1,6 +1,7 @@
 import React from "react";
 import Featured from "../../Components/featured/Featured";
 import FeaturedProperties from "../../Components/featuredProperties/FeaturedProperties";
+import Footer from "../../Components/Footer/Footer";
 import Header from "../../Components/header/Header";
 import MailList from "../../Components/mailList/MailList";
 import Navbar from "../../Components/Navbar/Navbar";
@@ -19,6 +20,7 @@ function Home() {
         <h1 className="homeTitle">Home guests love</h1>
         <FeaturedProperties />
         <MailList />
+        <Footer />
       </div>
     </div>
   );
