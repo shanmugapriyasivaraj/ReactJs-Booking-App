@@ -3,7 +3,6 @@ import {
   faPlane,
   faCar,
   faTaxi,
-  faCalendar,
   faCalendarDays,
   faPerson,
 } from "@fortawesome/free-solid-svg-icons";
