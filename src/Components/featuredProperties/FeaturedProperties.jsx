@@ -20,7 +20,7 @@ function FeaturedProperties() {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1"
+          src="https://media-cdn.tripadvisor.com/media/daodao/photo-s/02/f0/20/c9/caption.jpg"
           alt=""
           className="fpImg"
         />
@@ -34,7 +34,7 @@ function FeaturedProperties() {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDl7XMm9mnDppwUWdZ6E0agxQPpKkoW4Zq1t4m51C43Cxj7t5BpdX2BnX-qIChosudRc0&usqp=CAU"
           alt=""
           className="fpImg"
         />
@@ -48,7 +48,7 @@ function FeaturedProperties() {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaX2g2aiD5Tf16LCCkqQmOX0U0SL8IC7xkVITmrACsIcxmyy4VIGBVPwRdn_l1QQoDfk&usqp=CAU"
           alt=""
           className="fpImg"
         />
